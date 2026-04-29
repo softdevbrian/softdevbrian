@@ -26,7 +26,7 @@
 - 🌍 Building real-world solutions across **EdTech, FinTech & Agriculture** domains
 - 🔭 Currently working on: **CBC AI Mobile App** — a production app serving Kenyan schools
 - 💬 Ask me about: **Django, Flutter, Next.js, REST APIs**
-- 📫 Reach me at: **softdevbrian@gmail.com**
+- 📫 Reach me at: **softdevbriankuria@gmail.com**
 
 ---
 

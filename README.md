@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:softdevbriankuria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-softdevbrian@gmail.com-2E86C1?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-softdevbriankuria@gmail.com-2E86C1?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://brian-portfolio-phi.vercel.app" target="_blank">
@@ -93,7 +93,7 @@
 ### 📫 Get In Touch
 
 <p align="center">
-  <a href="mailto:softdevbrian@gmail.com">📧 softdevbrian@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:softdevbriankuria@gmail.com">📧 softdevbriankuria@gmail.com</a> &nbsp;·&nbsp;
   <a href="mailto:briankuriamaina@gmail.com">📧 briankuriamaina@gmail.com</a> &nbsp;·&nbsp;
   📞 +254 790 408 143
 </p>

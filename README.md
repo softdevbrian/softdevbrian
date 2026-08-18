@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://bmk-portfolio-pied.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="mailto:softdevbriankuria@gmail.com">
     <img src="https://img.shields.io/badge/Email-softdevbriankuria%40gmail.com-2E86C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Primary" />
   </a>
@@ -19,6 +22,7 @@
 
 ### 👨‍💻 About Me
 
+- 🌐 **Live Portfolio**: [bmk-portfolio-pied.vercel.app](https://bmk-portfolio-pied.vercel.app/)
 - 🚀 **Chief Technology Officer & Mobile Lead** at **Bombay Softwares** — architecting AI infrastructure for Kenyan schools, including the **CBC AI Platform** (serving institutional daily use).
 - 📱 **Shipped 2 production apps to Google Play Store**:
   - **CBC AI** (1,000+ active Play Store downloads)
@@ -90,10 +94,10 @@
 ### 📫 Get In Touch
 
 <p align="center">
+  <a href="https://bmk-portfolio-pied.vercel.app/">🌐 bmk-portfolio-pied.vercel.app</a> &nbsp;·&nbsp;
   <a href="mailto:softdevbriankuria@gmail.com">📧 softdevbriankuria@gmail.com</a> &nbsp;·&nbsp;
   <a href="mailto:briankuriamaina@gmail.com">📧 briankuriamaina@gmail.com</a> &nbsp;·&nbsp;
-  <a href="tel:+254790408143">📞 +254 790 408 143</a> &nbsp;·&nbsp;
-  <a href="tel:+254716919124">📞 +254 716 919 124</a>
+  <a href="tel:+254790408143">📞 +254 790 408 143</a>
 </p>
 
 <p align="center">

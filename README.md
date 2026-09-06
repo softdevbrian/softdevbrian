@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm Brian Maina Kuria 👋</h1>
 
 <p align="center">
-  <em><strong>CTO & Full-Stack Product Engineer · AI Platforms · Mobile Architect</strong></em><br/>
+  <em><strong>Full-Stack Product Engineer · Mobile · Backend · Payments</strong></em><br/>
   <em>Based in Nairobi, Kenya 📍</em>
 </p>
 
@@ -23,8 +23,8 @@
 ### 👨‍💻 About Me
 
 - 🌐 **Live Portfolio**: [bmk-portfolio-pied.vercel.app](https://bmk-portfolio-pied.vercel.app/)
-- 🚀 **Chief Technology Officer & Mobile Lead** at **Bombay Softwares** — architecting AI infrastructure for Kenyan schools, including the **CBC AI Platform** (serving institutional daily use).
-- 📱 **Shipped 2 production apps to Google Play Store**:
+- 📱 **Mobile Lead** at **Bombay Softwares** — owning the mobile application layer end to end for the **CBC AI Platform** (a production AI education platform used daily by Kenyan schools, 1,000+ installs).
+- 🚀 **Shipped 2 production apps to Google Play Store**:
   - **CBC AI** (1,000+ active Play Store downloads)
   - **Tuko Kadi** (Console-quality offline-first P2P multiplayer mobile card game)
 - 🏛️ **ICT Attachment** at the **Office of the Attorney General & Department of Justice** (May 2026 – Aug 2026).
@@ -71,7 +71,7 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CBC AI Platform** | AI infrastructure for Kenyan schools; competency tracking, automated lesson plans, and real-time attendance. | Flutter · Dart · Django REST · PostgreSQL · Bulk SMS | [Platform](https://cbcai.co.ke/) · [Play Store (1k+ DLs)](https://play.google.com/store/apps/details?id=com.cbcai.app1) |
+| **CBC AI Platform** | AI infrastructure for Kenyan schools; mobile layer end to end (assessment, competency tracking, daily operations). | Flutter · Dart · Django REST · PostgreSQL · Bulk SMS | [Platform](https://cbcai.co.ke/) · [Play Store (1k+ DLs)](https://play.google.com/store/apps/details?id=com.cbcai.app1) |
 | **Tuko Kadi** | Zero-infrastructure P2P multiplayer mobile card game with embedded WebSocket host, QR pairing, and 4 AI bot personalities. | Flutter 3.x · Dart · WebSockets · CustomPainter · AdMob | [Play Store](https://play.google.com/store/apps/details?id=com.softdevbrian.tukokadi) |
 | **Tea Farm Management (TFMS)** | Agricultural ERP replacing paper ledgers with automated 1-click M-Pesa B2C wage disbursements and reconciliation. | Django 5.2 · MySQL · Daraja B2C · Brevo · Phusion Passenger | [GitHub Repo](https://github.com/softdevbrian/TFMS) |
 | **Finance Tracker** | Multi-timeframe financial intelligence dashboard with dynamic scenario advisory engine and client-side A4 PDF export. | Next.js 15 · React 19 · Neon Postgres · Drizzle ORM · Clerk | [Live Demo](https://finance-tracker-fawn-ten.vercel.app/) |
@@ -81,8 +81,8 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softdevbrian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdevbrian&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=softdevbrian&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=softdevbrian&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">

@@ -6,31 +6,33 @@
 </p>
 
 <p align="center">
-  <a href="https://bmk-portfolio-pied.vercel.app/" target="_blank">
+  <a href="https://bmk-portfolio-pied.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
-  <a href="mailto:softdevbriankuria@gmail.com">
+  <a href="mailto:softdevbriankuria@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-softdevbriankuria%40gmail.com-2E86C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Primary" />
   </a>
-  <a href="https://github.com/softdevbrian">
+  <a href="https://github.com/softdevbrian" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-softdevbrian-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Roles%20%26%20Consulting-brightgreen?style=for-the-badge" alt="Status" />
+  <a href="https://bmk-portfolio-pied.vercel.app/contact" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Open%20to-Roles%20%26%20Consulting-brightgreen?style=for-the-badge" alt="Open to Roles & Consulting" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌐 **Live Portfolio**: [bmk-portfolio-pied.vercel.app](https://bmk-portfolio-pied.vercel.app/)
-- 📱 **Mobile Lead** at **Bombay Softwares** — owning the mobile application layer end to end for the **CBC AI Platform** (a production AI education platform used daily by Kenyan schools, 1,000+ installs).
-- 🚀 **Shipped 2 production apps to Google Play Store**:
-  - **CBC AI** (1,000+ active Play Store downloads)
-  - **Tuko Kadi** (Console-quality offline-first P2P multiplayer mobile card game)
-- 🏛️ **ICT Attachment** at the **Office of the Attorney General & Department of Justice** (May 2026 – Aug 2026).
-- 💰 **Handled real money in production**: Designed automated Safaricom Daraja M-Pesa B2C payroll disbursement & reconciliation for agricultural estates (**TFMS**).
-- 🎓 **BSc Software Development** at **KCA University**, Nairobi, Kenya (Expected Nov 2026).
-- ✍️ **Authored 200,000+ lines of production code solo** across mobile, ERP, financial intelligence, and real-time multiplayer systems.
+- 🌐 <a href="https://bmk-portfolio-pied.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Live Portfolio</strong></a>
+- 📱 <strong>Mobile Lead</strong> at <strong>Bombay Softwares</strong> — owning the mobile application layer end to end for the <a href="https://cbcai.co.ke/" target="_blank" rel="noopener noreferrer"><strong>CBC AI Platform</strong></a> (a production AI education platform used daily by Kenyan schools, 1,000+ installs).
+- 🚀 <strong>Shipped 2 production apps to Google Play Store</strong>:
+  - <a href="https://play.google.com/store/apps/details?id=com.cbcai.app1" target="_blank" rel="noopener noreferrer"><strong>CBC AI</strong></a> (1,000+ active Play Store downloads)
+  - <a href="https://play.google.com/store/apps/details?id=com.softdevbrian.tukokadi" target="_blank" rel="noopener noreferrer"><strong>Tuko Kadi</strong></a> (Console-quality offline-first P2P multiplayer mobile card game)
+- 🏛️ <strong>ICT Attachment</strong> at the **Office of the Attorney General & Department of Justice** (May 2026 – Aug 2026).
+- 💰 <strong>Handled real money in production</strong>: Designed automated Safaricom Daraja M-Pesa B2C payroll disbursement & reconciliation for agricultural estates (<a href="https://github.com/softdevbrian/TFMS" target="_blank" rel="noopener noreferrer"><strong>TFMS</strong></a>).
+- 🎓 <strong>BSc Software Development</strong> at <strong>KCA University</strong>, Nairobi, Kenya (Expected Nov 2026).
+- ✍️ <strong>Authored 200,000+ lines of production code solo</strong> across mobile, ERP, financial intelligence, and real-time multiplayer systems.
 
 ---
 
@@ -71,10 +73,10 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CBC AI Platform** | AI infrastructure for Kenyan schools; mobile layer end to end (assessment, competency tracking, daily operations). | Flutter · Dart · Django REST · PostgreSQL · Bulk SMS | [Platform](https://cbcai.co.ke/) · [Play Store (1k+ DLs)](https://play.google.com/store/apps/details?id=com.cbcai.app1) |
-| **Tuko Kadi** | Zero-infrastructure P2P multiplayer mobile card game with embedded WebSocket host, QR pairing, and 4 AI bot personalities. | Flutter 3.x · Dart · WebSockets · CustomPainter · AdMob | [Play Store](https://play.google.com/store/apps/details?id=com.softdevbrian.tukokadi) |
-| **Tea Farm Management (TFMS)** | Agricultural ERP replacing paper ledgers with automated 1-click M-Pesa B2C wage disbursements and reconciliation. | Django 5.2 · MySQL · Daraja B2C · Brevo · Phusion Passenger | [GitHub Repo](https://github.com/softdevbrian/TFMS) |
-| **Finance Tracker** | Multi-timeframe financial intelligence dashboard with dynamic scenario advisory engine and client-side A4 PDF export. | Next.js 15 · React 19 · Neon Postgres · Drizzle ORM · Clerk | [Live Demo](https://finance-tracker-fawn-ten.vercel.app/) |
+| **CBC AI Platform** | AI infrastructure for Kenyan schools; mobile layer end to end (assessment, competency tracking, daily operations). | Flutter · Dart · Django REST · PostgreSQL · Bulk SMS | <a href="https://cbcai.co.ke/" target="_blank" rel="noopener noreferrer">Platform</a> · <a href="https://play.google.com/store/apps/details?id=com.cbcai.app1" target="_blank" rel="noopener noreferrer">Play Store (1k+ DLs)</a> |
+| **Tuko Kadi** | Zero-infrastructure P2P multiplayer mobile card game with embedded WebSocket host, QR pairing, and 4 AI bot personalities. | Flutter 3.x · Dart · WebSockets · CustomPainter · AdMob | <a href="https://play.google.com/store/apps/details?id=com.softdevbrian.tukokadi" target="_blank" rel="noopener noreferrer">Play Store</a> |
+| **Tea Farm Management (TFMS)** | Agricultural ERP replacing paper ledgers with automated 1-click M-Pesa B2C wage disbursements and reconciliation. | Django 5.2 · MySQL · Daraja B2C · Brevo · Phusion Passenger | <a href="https://github.com/softdevbrian/TFMS" target="_blank" rel="noopener noreferrer">GitHub Repo</a> |
+| **Finance Tracker** | Multi-timeframe financial intelligence dashboard with dynamic scenario advisory engine and client-side A4 PDF export. | Next.js 15 · React 19 · Neon Postgres · Drizzle ORM · Clerk | <a href="https://finance-tracker-fawn-ten.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
 
 ---
 
@@ -94,10 +96,13 @@
 ### 📫 Get In Touch
 
 <p align="center">
-  <a href="https://bmk-portfolio-pied.vercel.app/">🌐 bmk-portfolio-pied.vercel.app</a> &nbsp;·&nbsp;
-  <a href="mailto:softdevbriankuria@gmail.com">📧 softdevbriankuria@gmail.com</a> &nbsp;·&nbsp;
-  <a href="mailto:briankuriamaina@gmail.com">📧 briankuriamaina@gmail.com</a> &nbsp;·&nbsp;
-  <a href="tel:+254790408143">📞 +254 790 408 143</a>
+  <a href="https://bmk-portfolio-pied.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 <strong>bmk-portfolio-pied.vercel.app</strong></a>
+</p>
+
+<p align="center">
+  <a href="mailto:softdevbriankuria@gmail.com" target="_blank" rel="noopener noreferrer">📧 <code>softdevbriankuria@gmail.com</code></a> &nbsp;·&nbsp;
+  <a href="mailto:briankuriamaina@gmail.com" target="_blank" rel="noopener noreferrer">📧 <code>briankuriamaina@gmail.com</code></a> &nbsp;·&nbsp;
+  <a href="tel:+254790408143">📞 <code>+254 790 408 143</code></a>
 </p>
 
 <p align="center">
